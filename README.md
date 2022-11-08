@@ -10,14 +10,14 @@ para no final sair o áudio na caixa de som do computador.
 
 ## Kernel
 
-É a base do Sistema Operacional, área de baixo nível que o ser humano não  
+É o núcleo do Sistema Operacional, área de baixo nível que o ser humano não  
 acessa, onde estão os drivers de controle da (CPU, Memória, Dispositivos).
 
 De forma resumida é a área do OS que faz a interação com a parte física.
 
 * `Windows NT` é o Kernal para Windows.
-* `Linux` é o Kernal para Ubuntu, Debian e outras distribuições...
-  * O Linux tem várias versões diferentes de Kernel.
+* `Linux` é o Kernal para Ubuntu, Debian e outras Distribuições...
+  * Existem várias versões de Linux.
 
 A `Interface Gráfica` e as `Aplicações` são as outras camadas importantes do OS.
 
